@@ -1,0 +1,56 @@
+/* impotação de fontes */
+
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: #25284b;
+}
+
+header {
+    background-color: #262626;
+    padding: 2%
+}
+#if {
+    margin-top: 10%;
+    color: #000000;
+    font-size: 1000%;
+    top: 50%;
+    left: 50%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+p {
+    font-size: 200%;
+    color: #eeeef0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    color: #d9d9d9;
+    display: inline;
+    padding: 2%;
+    font-family: 'Roboto';
+}
+
+strong {
+    font-family: 'Roboto', bold;
+}
+
+ul {
+    text-align: center;
+    float: center;
+}
+a {
+    text-decoration: none;
+    color: #d9d9d9;
+}
